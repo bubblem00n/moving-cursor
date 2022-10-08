@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.square {
+  border-radius: 50%;
+  position: absolute;
+}
+
+.moving {
+  background-color: lightslategray;
+}
